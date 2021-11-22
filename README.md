@@ -4,7 +4,7 @@ El proyecto consiste en instalar Kubernetes en remoto a través de nuestro servi
 
 ## Índice:
 1. [ Introducción ](https://github.com/Moisesmart/k0s/blob/main/introduccion.md)  
-2. [ Instalación ](https://github.com/Moisesmart/k0s/blob/main/instalacion.md)  
+2. [ ¿Qué es k0s? ](https://github.com/Moisesmart/k0s/blob/main/instalacion.md)  
 3. [ Panel de Control ](https://github.com/Moisesmart/k0s/blob/main/paneldecontrol.md)  
 4. [ Web Personalizada ](https://github.com/Moisesmart/k0s/blob/main/webpersonalizada.md)
 5. [ Conclusión ](https://github.com/Moisesmart/k0s/blob/main/conclusion.md)
