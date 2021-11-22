@@ -11,6 +11,6 @@ El proyecto consiste en instalar Kubernetes en remoto a través de nuestro servi
 
 ## Referencias
 - [Albert Coronado](https://www.youtube.com/watch?v=gmFSmzAWcig)  
-- [Pelado Nerd](https://www.youtube.com/watch?v=TSot5AnS-mk)
+- [Pelado Nerd](https://www.youtube.com/watch?v=netJ0Nuj_tw&t=200s)
 ## Licencia
 - [Licencia](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/by-sa.png)  
