@@ -10,7 +10,7 @@ El proyecto consiste en instalar Kubernetes en remoto a través de nuestro servi
 5. [ Instalación del SO ](https://github.com/Moisesmart/k0s/blob/main/instalacion.md)
 
 ## Referencias
-- [Albert Coronado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/#:~:text=Al%20igual%20que%20los%20hiperv%C3%ADnculos,a%20la%20imagen%20entre%20par%C3%A9ntesis.)  
+- [Albert Coronado](https://www.youtube.com/watch?v=gmFSmzAWcig)  
 - [Pelado Nerd](https://www.youtube.com/watch?v=TSot5AnS-mk)
 ## Licencia
 - [Licencia](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/by-sa.png)  
