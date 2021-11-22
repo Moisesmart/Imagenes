@@ -1,4 +1,6 @@
 # Kubernetes-k0s  
 ## Introducción  
 
-**Kubernetes** es una herramienta ligera y open-source de gestión de contenedores sobre Docker (o Docker Swarm). Portainer ofrece una interfaz gráfica para gestionar el host Docker desde cualquier navegador, tiene soporte para Raspberry Pi y se puede desplegar como un simple contenedor.
+**Kubernetes** es una plataforma portable y extensible de código abierto para administrar cargas de trabajo y servicios. Kubernetes facilita la automatización y la configuración declarativa. Tiene un ecosistema grande y en rápido crecimiento. El soporte, las herramientas y los servicios para Kubernetes están ampliamente disponibles.
+
+Google liberó el proyecto Kubernetes en el año 2014. Kubernetes se basa en la experiencia de Google corriendo aplicaciones en producción a gran escala por década y media, junto a las mejores ideas y prácticas de la comunidad.
