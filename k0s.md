@@ -14,14 +14,22 @@ k0s se envía como un único binario sin dependencias del sistema operativo. Por
 
 
   **1-Ofrece certificado (certificado por Internet Security Center) Kubernetes 1.19**
-  **2-Utiliza containerd como tiempo de ejecución de contenedor predeterminado
-    3-Admite arquitecturas Intel (x86-64) y ARM (ARM64)
-    4-Utiliza intra- cluster etcd
-    5-Utiliza el complemento de red Calico de forma predeterminada (activando así las políticas de red)
-    6-Incluye controlador de acceso a la política de seguridad de pod
-    7-Utiliza DNS con CoreDNS
-    8-Proporciona métricas de clúster a través de Metrics Server
-    9-Habilita la escala automática de pod horizontal (HPA).
+  
+  **2-Utiliza containerd como tiempo de ejecución de contenedor predeterminado**
+  
+  **3-Admite arquitecturas Intel (x86-64) y ARM (ARM64)**
+    
+  **4-Utiliza intra- cluster etcd**
+  
+  **5-Utiliza el complemento de red Calico de forma predeterminada (activando así las políticas de red)**
+  
+  **6-Incluye controlador de acceso a la política de seguridad de pod**
+  
+  **7-Utiliza DNS con CoreDNS**
+  
+  **8-Proporciona métricas de clúster a través de Metrics Server**
+  
+  **9-Habilita la escala automática de pod horizontal (HPA).**
 
 
 
