@@ -1,5 +1,5 @@
 # CLOUDING.IO
-
+![alt text](https://i0.wp.com/colaboratorio.net/wp-content/uploads/2019/03/logo-clouding-io-mediano.jpg?ssl=1)
 ## ¿QUÉ ES CLOUDING.IO?
 
 ### Es una plataforma en la Nube que cuenta con Servidores VPS y muchos otros servicios interesantes. Sus servidores VPS permiten a los Desarrolladores y Empresas, alojar desde proyectos pequeños hasta proyectos grandes.
