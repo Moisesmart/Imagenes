@@ -18,6 +18,6 @@
 
 #### Se generarán dos ips, una pública y otra privada, la privada la guardaremos nosotros, la que nos interesa que conozca el servidor es la ip pública por lo que ejecutaremos el siguiente comando:
 
-### ssh-copy-id -i /root/.ssh/id_rsa.pub root@80.240.127.224
+### ssh-copy-id -i /root/.ssh/id_rsa.pub root@80.240.XXX.XXX
 
 #### Tras esto el servidor tendrá nuestras credenciales y podremos conectarnos sin introducir la contraseña
