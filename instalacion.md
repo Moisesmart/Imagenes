@@ -2,3 +2,32 @@
 
 ### Uso de 1 sólo servidor ( controller + worker )
 
+#### Una vez que tenemos preparada la conectividad con las máquinas procedemos a descargar k0s, yo he utilizado wget para descargarme el paquete k0sctl directamente y el comando es el siguiente:
+
+wget https://github.com/k0sproject/k0sctl/releases/download/v0.8.4/k0sctl-linux-x64 && mv k0sctl-linux-x64 k0sctl && chmod 777 k0sctl
+
+#### COMPROBAMOS QUE TENEMOS K0SCTL INSTALADO
+
+## Ejecutamos ./k0sctl
+
+#### Desde el usuario que es desde donde hemos descargado el paquete k0sctl
+
+### EJECUTAMOS ./K0SCTL INIT
+#### Al ejecutar ./k0sctl init lo pasaremos a un fichero yaml con el comando >
+
+## Editamos e fichero yaml recientemente creado, modificamos el address y el role
+
+## En address colocaremos la IP de nuestro servidor y en role podemos asignarle tanto control-plane como worker, yo le he asignado el rol como controller+worker
+![Captura de pantalla de 2021-11-24 17-41-00](https://user-images.githubusercontent.com/72433702/143285279-dba51421-ed67-4d78-9639-e531f26d445d.png)
+
+
+
+#### Tras configurar el fichero yaml ejecutaremos un apply con la siguiente orden:
+
+## ./k0sctl apply --config k0sctl.yaml
+
+
+### Este es el resultado:
+![Captura de pantalla de 2021-11-24 17-39-54](https://user-images.githubusercontent.com/72433702/143283425-65116edd-4474-42e6-87c3-7cded792f739.png)
+
+
