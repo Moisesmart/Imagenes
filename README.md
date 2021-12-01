@@ -15,4 +15,5 @@ El proyecto consiste en instalar Kubernetes en remoto a través de nuestro servi
 ## Licencia
 - [Licencia](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
 
-## IMAGENES
+## Imagenes
+
