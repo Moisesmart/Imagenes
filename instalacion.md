@@ -41,7 +41,13 @@ wget https://github.com/k0sproject/k0sctl/releases/download/v0.8.4/k0sctl-linux-
 ### 1 SERVIDOR
 ### ---------------------
 
-### *2 Pasos: Descarga e intalación  
+### 2 Pasos: Descarga e intalación  
 #### 1. Descarga con curl
+![Captura de pantalla de 2021-11-26 10-26-04](https://user-images.githubusercontent.com/72433702/144210154-a782b709-4d2f-4775-bba1-158211716206.png)
+
 #### 2. Instalar
+![Captura de pantalla de 2021-12-01 08-31-29](https://user-images.githubusercontent.com/72433702/144210197-b86bbec5-3a26-4cf0-a23f-fef9105d5d96.png)
+
 #### 3. Detalles de k0s
+![Captura de pantalla de 2021-12-01 08-33-31](https://user-images.githubusercontent.com/72433702/144210214-f1ad0223-673c-45cb-a268-f7c62c3f89a7.png)
+
