@@ -16,4 +16,4 @@ El proyecto consiste en instalar Kubernetes en remoto a través de nuestro servi
 - [Licencia](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
 
 ## Imagenes
-
+- [Imagenes](https://github.com/Moisesmart/k0s/tree/main/K0S)
