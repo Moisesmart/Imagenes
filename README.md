@@ -14,3 +14,5 @@ El proyecto consiste en instalar Kubernetes en remoto a través de nuestro servi
 - [Pelado Nerd](https://www.youtube.com/watch?v=netJ0Nuj_tw&t=200s)
 ## Licencia
 - [Licencia](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
+
+## IMAGENES
