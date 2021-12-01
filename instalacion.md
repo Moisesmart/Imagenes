@@ -1,6 +1,6 @@
 ## INSTALACIÓN k0s
 
-### Uso de 1 sólo servidor ( controller + worker )
+### Uso de 2 servidores ( controller + worker )
 
 #### Una vez que tenemos preparada la conectividad con las máquinas procedemos a descargar k0s, yo he utilizado wget para descargarme el paquete k0sctl directamente y el comando es el siguiente:
 
