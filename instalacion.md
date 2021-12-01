@@ -36,3 +36,8 @@ wget https://github.com/k0sproject/k0sctl/releases/download/v0.8.4/k0sctl-linux-
 ![Captura de pantalla de 2021-11-24 17-39-54](https://user-images.githubusercontent.com/72433702/143283425-65116edd-4474-42e6-87c3-7cded792f739.png)
 
 
+
+### ---------------------
+### 1 SERVIDOR
+### ---------------------
+
