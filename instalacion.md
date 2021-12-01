@@ -41,3 +41,7 @@ wget https://github.com/k0sproject/k0sctl/releases/download/v0.8.4/k0sctl-linux-
 ### 1 SERVIDOR
 ### ---------------------
 
+### *2 Pasos: Descarga e intalación  
+#### 1. Descarga con curl
+#### 2. Instalar
+#### 3. Detalles de k0s
