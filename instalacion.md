@@ -51,3 +51,11 @@ wget https://github.com/k0sproject/k0sctl/releases/download/v0.8.4/k0sctl-linux-
 #### 3. Detalles de k0s
 ![Captura de pantalla de 2021-12-01 08-33-31](https://user-images.githubusercontent.com/72433702/144210214-f1ad0223-673c-45cb-a268-f7c62c3f89a7.png)
 
+#### 4.Comprobación de la instalación
+
+![k0s1](https://user-images.githubusercontent.com/72433702/145805799-61e1b6f0-2fb6-41b0-bd14-bbc411549fc7.JPG)
+![k0s2](https://user-images.githubusercontent.com/72433702/145805821-4f4a915f-094c-46e3-8290-4900d858dcf8.JPG)
+![k0s3](https://user-images.githubusercontent.com/72433702/145805840-5b6255ef-3a07-4b75-b47f-92faf0a3edbc.JPG)
+![k0s4](https://user-images.githubusercontent.com/72433702/145805858-10769ab8-386b-4ae9-a987-d9fe46838af1.JPG)
+![k0s5](https://user-images.githubusercontent.com/72433702/145805862-a0145669-59a7-41f5-8cf2-97703749247d.JPG)
+
