@@ -12,3 +12,13 @@ La principal función de Helm es definir, instalar y actualizar aplicaciones com
 ## Con Helm Charts es posible crear, versionar y publicar una aplicación Kubernetes. Cuando usamos Helm Charts tenemos un asistente de optimización que facilita la administración e instalación de las aplicaciones Kubernetes y el proceso de empaquetamiento.
 
 ## Helm Charts se divide en dos vertientes: una parte es Helm, como cliente y la otra es Tiller como servidor.
+
+
+## **Vertientes**
+
+### Tiller - servidor de Helm
+
+### Tiller es el componente que se encarga de la gestión de los Charts, específicamente en sus instalaciones. Interactúa directamente con el API de Kubernetes para instalar, actualizar, consultar y eliminar recursos Kubernetes. También almacena los objetos de cada release o distribución.
+Helm - el cliente
+
+### Por su parte, Helm se ejecuta directamente en un equipo o en el dispositivo elegido para la ejecución. Los paquetes Helm están compuestos de una descripción del paquete y de archivos contenedores de manifiestos Kubernetes.
