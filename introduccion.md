@@ -7,4 +7,8 @@
 La principal función de Helm es definir, instalar y actualizar aplicaciones complejas de Kubernetes. Helm es mantenido por la CNCF en colaboración con Microsoft, Google, Bitnami y la comunidad de Helm.
 
 
-**Charts** 
+# **Charts** 
+
+## Con Helm Charts es posible crear, versionar y publicar una aplicación Kubernetes. Cuando usamos Helm Charts tenemos un asistente de optimización que facilita la administración e instalación de las aplicaciones Kubernetes y el proceso de empaquetamiento.
+
+## Helm Charts se divide en dos vertientes: una parte es Helm, como cliente y la otra es Tiller como servidor.
